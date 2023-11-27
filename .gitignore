@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.idea/*
+.idea/
+
+
+/test/result.txt
+/test/result_HM.txt
+/test/result_HS.txt
+/test/result_HSD.txt
+/test/result_share.txt
+/test/result_share_unimodal_center.txt
